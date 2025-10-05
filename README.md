@@ -41,9 +41,4 @@ To run this project locally, follow these steps:
     ```
     *(Note: If you don't have a `requirements.txt` file, you can create one with `pip freeze > requirements.txt` after installing the libraries manually).*
 
-## ▶️ How to Run
 
-Execute the main script from the terminal to run the entire pipeline—from data loading to generating the final graphs:
-
-```bash
-python main_script.py
