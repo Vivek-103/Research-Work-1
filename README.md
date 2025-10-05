@@ -4,7 +4,7 @@ This repository contains the source code and results for a research project comp
 
 ## 🚀 Key Features
 
-* **Custom CNN Model:** A simple CNN built from scratch with data augmentation layers.
+* **Custom CNN Model:** A simple CNN built from scratch with data augmentation.
 * **Transfer Learning Model:** VGG16 pre-trained on ImageNet, adapted for CIFAR-10 with data augmentation.
 * **Performance Analysis:** The script automatically generates:
     * A comparison graph of training and validation accuracies.
@@ -25,8 +25,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Vivek-103/Research-Work-1.git](https://github.com/Vivek-103/Research-Work-1.git)
+    cd Research-Work-1
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
@@ -39,6 +39,10 @@ To run this project locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: If you don't have a `requirements.txt` file, you can create one with `pip freeze > requirements.txt` after installing the libraries manually).*
 
+## ▶️ How to Run
 
+Execute the main script from the terminal to run the entire pipeline—from data loading to generating the final graphs:
+
+```bash
+python main_script.py
