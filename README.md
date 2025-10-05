@@ -40,9 +40,3 @@ To run this project locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-## ▶️ How to Run
-
-Execute the main script from the terminal to run the entire pipeline—from data loading to generating the final graphs:
-
-```bash
-python main_script.py
